@@ -57,7 +57,7 @@ El código completo se encuentra en la carpeta [`firmware/`](firmware/).
 ![Simulación en Wokwi](media/simulacion.jpeg)
 
 ### Video de funcionamiento
-[![Ver video del comedero funcionando](https://img.youtube.com/vi/UcZ1p726nko.jpg)]
+[![Ver video del comedero funcionando](https://img.youtube.com/vi/UcZ1p726nko.jpg)](https://youtu.be/UcZ1p726nko)
 
 ---
 
